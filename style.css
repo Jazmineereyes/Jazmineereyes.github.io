@@ -1,0 +1,60 @@
+h1{
+   text-shadow: 2.5px 2.5px rgb(52, 159, 173);
+   text-align: center;
+   font-size: 50px;
+   font-family: 'Bebas Neue', cursive;
+    
+}
+div{
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(52, 159, 173);
+    box-shadow: 5px 5px;
+    margin-top: 2%;
+    margin-left: 32%;
+    width: 500px;
+}
+
+ul{
+    list-style-type: none;
+    background-color: rgb(0,0,0);
+    padding: 4%;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(255,255,255);
+    margin:2%;
+}
+
+li{
+    display: inline;
+}
+
+li a:hover{
+    background-color: rgb(52, 159, 173);
+    
+}
+
+p{
+    color: rgb(0,0,0);
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+label{
+    color: rgb(0,0,0);
+}
+body{
+    background-color: rgb(232, 206, 114);
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+}
+h3{
+    font-family: 'Anton', sans-serif;
+}
