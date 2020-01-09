@@ -29,6 +29,8 @@ a{
 
 li{
     display: inline;
+    margin: 7%;
+    font-size: 18px;
 }
 
 li a:hover{
